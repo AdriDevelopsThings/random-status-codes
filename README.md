@@ -3,7 +3,7 @@ A webserver written in golang that returns random status codes without body or n
 
 ## Use it
 ### Docker
-``docker run -p 80:80 ghcr.io/adridevelopsthings/random-status-codes``
+``docker run -p 80:80 ghcr.io/adridevelopsthings/random-status-codes:main``
 
 ### Raw
 
